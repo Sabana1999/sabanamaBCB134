@@ -1,0 +1,264 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Poppins', sans-serif;
+ }
+ .main{
+    display: flex;
+    
+ }
+ .main .left{
+    margin-top: 77px;
+ }
+ .main .left nav img{
+    width: 30%;
+ }
+ .main .left nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+ }
+ .left nav .sign{
+    width: 110px;
+    height: 36px;
+    background-color: black;
+    color: white;
+    border: none;
+    
+
+
+ }
+ .left nav button{
+     color: black;
+     background-color: transparent;
+     border: none;
+     margin-inline:13px ;
+     margin-top: 6px;
+     font-size: 17px;
+
+ }
+.main .main-img{
+    width: 700px;
+}
+.main .left .txt{
+    margin-left: 63px;
+    margin-top: 77px;
+}
+.left .txt h1{
+    font-size: 43px;
+}
+.left .txt p{
+    margin-top: 22px;
+    font-size: 22px;
+}
+.left .txt .inp{
+    display: flex;
+    margin-top: 22px;
+}
+.left .txt input{
+    width: 380px;
+    height: 36px;
+    border: 1px solid rgb(241, 76, 16);
+    border-right: none;
+    padding: 8px;
+     
+}
+.left .txt .inp button{
+     width: 120px;
+     background-color: rgb(237, 74, 15);
+     border: none;
+     font-size: 18px;
+     color: white;
+    
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: rgb(36, 19, 7);
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+.card .crd img{
+    width: 50%;
+}
+.card .crd p{
+    font-size: small;
+}
+
+
+
+.rest{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.rest img{
+    width: 32%;
+}
+.rest .text{
+    margin-top: 84px;
+    margin-left: 50px;
+}
+.rest .text h1{
+    font-size: 34px;
+}
+.rest .text p{
+    margin-top: 11px;
+}
+.rest .text img{
+    margin-top: 22px;
+    border-radius: 5%;
+    
+}
+.rest .phone{
+width: 100%;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    color: white;
+    background-color: black;
+    padding: 44px;
+    
+}
+.footer .list {
+    margin-inline: 33px;
+}
+.footer .list h4{
+opacity: 0.5;
+}
+.footer .list img{
+    width: 63%;
+    border: 2px solid rgb(129, 117, 117);
+    border-radius: 10px;
+    margin-top: 11px;
+
+}.hr{
+    position: relative;
+    rotate: 90deg;
+    bottom: 450px;
+    right: 600px;
+    height: 2000px;
+    opacity: 0.5;
+}
+.footer1{
+    position: relative;
+    bottom:1470px ;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    color: white;
+    background-color: black;
+    padding: 44px;
+    
+}
+
+.footer1 .list1 {
+    margin-inline: 33px;
+}
+.footer1 .list1 h4{
+    opacity: 0.5;
+    left: 500px;
+}
+.footer1 .list1 p{
+    position: relative;
+    right: 0px;
+
+}
+.hr1{
+    position: relative;
+    rotate: 90deg;
+   top: 6250px;
+    left: -500px;
+    height: 2000px;
+    opacity: 0.5;
+}.footer2{
+    position: relative;
+    bottom:1470px ;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    color: white;
+    background-color: black;
+    padding: 44px;
+}
+.footer2 .list2 h4{
+    opacity: 0.5;
+    left:   10px;
+}
+.footer2 .list2 p{
+    position: relative;
+    right: 0px;
+}.hr1{
+    position: relative;
+    rotate: 90deg;
+   top: 6250px;
+    left: -500px;
+    height: 2000px;
+    opacity: 0.5;
+}.footer3{
+    position: relative;
+    bottom:1470px ;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    color: white;
+    background-color: black;
+    padding: 44px;
+}
+.footer3 .list h4{
+    opacity: 0.5;
+    right: 10px;
+}
+.footer3 .list p{
+    position: relative;
+    right: 1px;
+}
+.hr3{
+    position: relative;
+    rotate: 90deg;
+   top: 200px;
+    left: -500px;
+    height: 2000px;
+    opacity: 0.5;
+}
+.lastrow{
+    position: relative;
+    bottom:1470px ;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    color: white;
+    background-color: black;
+    padding: 44px;
+    right: -70px;
+}.lastrow .last1{
+    position: relative;
+    bottom: 850px;
+    left: -200px;
+}.lastrow .last1 .last1a{
+    opacity: 0.5;
+}.last2{
+    position: relative;
+    bottom: 800px;
+    left: 100px; 
+    font-style: normal;
+}.hr4{
+    position: relative;
+    rotate: 90deg;
+   top: -1750px;
+    left: -500px;
+    height: 2000px;
+    opacity: 0.5;
+}.last2 .last2a{
+    position: relative;
+    right: -200px;
+}.img1 img{
+    position: relative;
+    bottom: 4230px;
+    
+}
